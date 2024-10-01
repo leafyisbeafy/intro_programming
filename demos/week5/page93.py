@@ -35,6 +35,8 @@ if(number_of_scores > 0):
 # Thank the user
 print("Thanks for playing!")
 
+#it is a test
+
 
 
 
