@@ -1,11 +1,29 @@
-from user_input import get_float
+The functions in this module will help us define User Interface appearance
+'''
+def show_program_title():
+    """
+    Displays the formatted program title
 
-def main():
-    print("(*) is required")
-    get_float("Give me a number")
-    get_float("Give me a number", False)
-    get_float("What is your age?", True,0)
-    get_float("What is your grade level?", True, 1, 12)
-    
-if __name__ == "__main__":
-    main()
+    INPUTS:
+        title A string containing the title of the program
+        width An int with the screen width for display in characters
+    """
+    pass
+
+def show_section_title():
+    pass
+
+def show_message():
+    pass
+
+def press_enter_to_continue():
+    pass
+
+def show_error():
+    pass
+
+def show_menu():
+    pass
+
+def confirm_quit():
+    pass

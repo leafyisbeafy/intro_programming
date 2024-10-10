@@ -5,6 +5,9 @@ This module contains functions for getting user input from the keyboard
 import datetime
 import math
 
+def get_choice():
+    pass
+
 def get_float(prompt: str, required = True, min = -math.inf, max = math.inf) -> float:
     """
     This function prompts the user for a decimal (float) number
