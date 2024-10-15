@@ -4,7 +4,7 @@ import random
 
 def get_word():
  # List of words to choose from
- words = ['python', 'javascript', 'nodejs', 'react', 'angular', 'php', 'css', 'html']
+ words = ['python', 'javascript', 'nodejs', 'react', 'angular', 'php', 'css', 'html', 'html']
  return random.choice(words).lower()
 
 
