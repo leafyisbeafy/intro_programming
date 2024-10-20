@@ -1,0 +1,1 @@
+As a user who needs to convert measurements, I want to input a length in feet and receive the equivalent in centimeters, inches, and meters, so that I can quickly and accurately perform unit conversions for various purposes.

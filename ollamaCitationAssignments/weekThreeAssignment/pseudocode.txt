@@ -1,0 +1,8 @@
+Convert feet to centimeters
+Convert feet to inches
+Convert feet to meters
+
+Display table header
+Display conversion results in table format
+
+Display program completion message

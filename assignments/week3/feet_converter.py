@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 '''
+
+used alot of online resource local llm and for image sonat
+
 Name: feet_converter.py
 Date: 2024-09-26
-Author: Marc Hauschildt
+Author: Oshonik
 Description: Prompt user for feet, display 3 conversions
 '''
 
